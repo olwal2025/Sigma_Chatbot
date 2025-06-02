@@ -49,5 +49,3 @@ Crypto is risky — always do your own research!
 # Files
 Sigma_Chatbot.ipynb
 README.md
-
-
