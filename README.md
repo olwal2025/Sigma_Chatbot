@@ -50,4 +50,5 @@ Crypto is risky- always do your own research!
 
 ## Files
 - `Sigma_Chatbot.ipynb`
+- `sigma_chatbot.py`
 - `README.md`
