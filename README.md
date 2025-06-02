@@ -1,16 +1,16 @@
-# Sigma_Chatbot- My First AI-Powered Financial Sidekick!
+# Sigma_Chatbot – My First AI-Powered Financial Sidekick
 
 ## Overview
-Sigma is a rule-based chatbot built using Python that helps users make simple cryptocurrency investment decisions. It analyzes predefined data for profitability and sustainability while offering advice accordingly.
+Sigma is a Python-based, rule-driven chatbot designed to assist users with basic cryptocurrency investment decisions. It evaluates predefined data on profitability and sustainability, providing simple, friendly advice.
 
 ## Features
-- Friendly chatbot personality.
-- Analyzes trends, market cap and energy usage.
-- Recommends cryptos based on sustainability or profitability.
-- Basic natural language understanding.
+- Conversational, approachable chatbot personality.
+- Analyzes price trends, market capitalization and energy usage.
+- Recommends cryptocurrencies based on sustainability or profitability.
+- Basic natural language understanding using rule-based logic.
 
 ## How It Works
-The chatbot uses `if-else` logic to respond to user queries about trending and sustainable cryptocurrencies. It mimics AI decision-making by matching user intent with predefined rules and data points.
+Sigma uses straightforward `if-else` logic to interpret user questions about trending or sustainable cryptocurrencies. It simulates AI decision-making by matching user intent to preset rules and data.
 
 ## Sample Dataset
 
@@ -35,17 +35,19 @@ crypto_db = {
         "sustainability_score": 8/10
     }
 }
+```
 
-# Example Conversation
-You: What's the most sustainable coin?
-CryptoBuddy: Invest in Cardano! It’s eco-friendly and has long-term potential!
+## Example Conversation
 
-You: Which crypto is trending up?
-CryptoBuddy: Bitcoin and Cardano are rising!
+**User:** What's the most sustainable coin?  
+**Sigma:** Cardano is a great choice! It’s eco-friendly and has strong long-term potential.
 
-# Disclaimer
-Crypto is risky — always do your own research!
+**User:** Which crypto is trending up?  
+**Sigma:** Bitcoin and Cardano are currently rising!
 
-# Files
-Sigma_Chatbot.ipynb
-README.md
+## Disclaimer
+Crypto is risky- always do your own research!
+
+## Files
+- `Sigma_Chatbot.ipynb`
+- `README.md`
