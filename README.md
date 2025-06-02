@@ -36,17 +36,17 @@ crypto_db = {
     }
 }
 
-## Example Conversation
+# Example Conversation
 You: What's the most sustainable coin?
 CryptoBuddy: Invest in Cardano! It’s eco-friendly and has long-term potential!
 
 You: Which crypto is trending up?
 CryptoBuddy: Bitcoin and Cardano are rising!
 
-## Disclaimer
+# Disclaimer
 Crypto is risky — always do your own research!
 
-## Files
+# Files
 Sigma_Chatbot.ipynb
 README.md
 
